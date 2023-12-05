@@ -1,13 +1,10 @@
 <h1>👋😉</h1>  
 
-![yC](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/dc66f009-fbfa-496d-9bf2-3c286fe1bf93)
-
-
 😁I am an undergraduate student at the Institute of Technology of Cambodia with a passion for data-driven decision-making. I believe with the insight of data, we can make better decision and better solution.
 🔭I am constantly striving to upgrade my skills to become a better data analyst, and I am also working on developing my skills in various machine learning algorithms.
 🔥I'm just a curious minded teen who love to explore different finding and solution through data. And I also love new technology.  
 📫 Reach me out at: **kimhounglim.k@gmail.com**  
-![anxietymode](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/79e9ac36-6b21-4a6f-ba0b-63b0b162cabb)
+![yC](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/dc66f009-fbfa-496d-9bf2-3c286fe1bf93)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
