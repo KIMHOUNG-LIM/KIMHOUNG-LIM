@@ -31,7 +31,16 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <!-- Add other icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/>
+  <img src="https://placeholder.link/40x40" alt="data_science_tool" width="40" height="40"/>
+</p>
+
+<p align="center">
+  ![Data Science Cat Meme](https://placekitten.com/500/300)
+  <br/>
+  *Caption: "When your code finally runs without errors on the first try."*
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhoung-lim&show_icons=true&locale=en" alt="kimhoung-lim" /></p>
