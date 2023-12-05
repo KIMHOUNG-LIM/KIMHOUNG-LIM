@@ -1,4 +1,5 @@
 <h1>👋😉</h1>  
+![Uploading meme.png…]()
 
 😁I am an undergraduate student at the Institute of Technology of Cambodia with a passion for data-driven decision-making. I believe with the insight of data, we can make better decision and better solution.
 🔭I am constantly striving to upgrade my skills to become a better data analyst, and I am also working on developing my skills in various machine learning algorithms.
