@@ -5,7 +5,7 @@
 🔥I'm just a curious minded teen who love to explore different finding and solution through data. And I also love new technology.
   
 📫 Reach me out at: **kimhounglim.k@gmail.com**
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhamster-meme-gifs&psig=AOvVaw076TP5IjsE5K44smLonYNB&ust=1701836518126000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqGAoTCPCgj5u594IDFQAAAAAdAAAAABDIAQ
+![Animated Octocat]([https://example.com/your-animated-octocat.gif](https://i.kym-cdn.com/photos/images/original/002/048/946/71d.gif))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
