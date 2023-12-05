@@ -1,13 +1,9 @@
-<h1 align="center">👋 I'm Kim Houng</h1>
-<h3 align="center">I am an undergraduate student at the Institute of Technology of Cambodia with a passion for data-driven decision-making. I believe with the insight of data, we can make better decision and better solution.</h3>
-
-- 🔭 I am constantly striving to upgrade my skills to become a better data analyst, and I am also working on developing my skills in various machine learning algorithms.
-
-- 🌱 I’m currently learning **to improve on data preprocessing and various machine learning algorithms.**
-
-- 🤝 'm just a curious minded teen who love to explore different finding and solution through data. And I also love new technology.
-
-- 📫 How to reach me **kimhounglim.k@gmail.com**
+<h1 align="center">👋😉</h1>
+😁I am an undergraduate student at the Institute of Technology of Cambodia with a passion for data-driven decision-making. I believe with the insight of data, we can make better decision and better solution.
+🔭I am constantly striving to upgrade my skills to become a better data analyst, and I am also working on developing my skills in various machine learning algorithms.
+🔥I'm just a curious minded teen who love to explore different finding and solution through data. And I also love new technology.
+  
+📫 Reach me out at: **kimhounglim.k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
