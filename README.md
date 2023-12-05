@@ -5,7 +5,7 @@
 🔥I'm just a curious minded teen who love to explore different finding and solution through data. And I also love new technology.
   
 📫 Reach me out at: **kimhounglim.k@gmail.com**
-![Animated Octocat]([https://example.com/your-animated-octocat.gif](https://i.kym-cdn.com/photos/images/original/002/048/946/71d.gif))
+![71d](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/79e9ac36-6b21-4a6f-ba0b-63b0b162cabb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
