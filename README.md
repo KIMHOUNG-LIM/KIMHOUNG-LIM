@@ -1,11 +1,11 @@
 <h1>👋😉</h1>
-![images](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/29b639ec-b29a-44b7-9e14-38d95be4e9c0)
+
 😁I am an undergraduate student at the Institute of Technology of Cambodia with a passion for data-driven decision-making. I believe with the insight of data, we can make better decision and better solution.
 🔭I am constantly striving to upgrade my skills to become a better data analyst, and I am also working on developing my skills in various machine learning algorithms.
 🔥I'm just a curious minded teen who love to explore different finding and solution through data. And I also love new technology.
   
 📫 Reach me out at: **kimhounglim.k@gmail.com**
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhamster-meme-gifs&psig=AOvVaw076TP5IjsE5K44smLonYNB&ust=1701836518126000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqGAoTCPCgj5u594IDFQAAAAAdAAAAABDIAQ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
