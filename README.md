@@ -1,5 +1,6 @@
 <h1>👋😉</h1>  
-![welcome](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/1880586d-07d9-41b2-9250-37eadefb7efb)
+
+![yC](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/dc66f009-fbfa-496d-9bf2-3c286fe1bf93)
 
 
 😁I am an undergraduate student at the Institute of Technology of Cambodia with a passion for data-driven decision-making. I believe with the insight of data, we can make better decision and better solution.
