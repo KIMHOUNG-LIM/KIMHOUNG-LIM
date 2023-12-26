@@ -27,7 +27,5 @@
 
 ![Kimhoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs)
 
-![Kimhoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs&include_all_commits=true)
-
 ⭐️ Thank you for visiting my profile! Check out my repositories and let's build something amazing together. ⭐️
 
