@@ -24,13 +24,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kimhoung-lim&show_icons=true&theme=radical" alt="kimhoung-lim" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhoung-lim&theme=radical" alt="kimhoung-lim" />
 </p>
+
 
 
 ⭐️ Thank you for visiting my profile! Check out my repositories and let's build something amazing together. ⭐️
