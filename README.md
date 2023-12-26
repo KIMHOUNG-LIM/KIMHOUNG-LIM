@@ -24,7 +24,12 @@
 
 ## 📈 GitHub Stats
 
-![Kimhoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimhoung&show_icons=true&locale=en&layout=compact" alt="kimhoung" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhoung&show_icons=true&locale=en" alt="kimhoung" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimhoung&" alt="kimhoung" /></p>
+
 
 ⭐️ Thank you for visiting my profile! Check out my repositories and let's build something amazing together. ⭐️
 
