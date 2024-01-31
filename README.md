@@ -20,7 +20,9 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Beginner-brightgreen?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Beginner-brightgreen?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-Beginner-brightgreen?style=flat-square&logo=pytorch&logoColor=white)
 
 ## 🚀 Web Deployment
-![Flask](https://img.shields.io/badge/Flask-Beginner-brightgreen?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-Intermediate-blue?style=flat-square&logo=streamlit&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-Beginner-brightgreen?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-Intermediate-blue?style=flat-square&logo=streamlit&logoColor=white) [![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue?style=flat-square&logo=flutter&logoColor=white)](https://your-flutter-profile-link)
+
 
 ## 📈 GitHub Stats
 
@@ -31,5 +33,5 @@
 
 
 
-⭐️ Thank you for visiting my profile! Check out my repositories and let's build something amazing together. ⭐️
+⭐️ Check out my repositories and let's build something amazing together. ⭐️
 
