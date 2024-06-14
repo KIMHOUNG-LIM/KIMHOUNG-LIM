@@ -1,8 +1,6 @@
 <h1>Hi!👋 Nice to meet you here!😉</h1>  
 😁 Welcome to my Github Profile!   
 
-![yC](https://github.com/KIMHOUNG-LIM/KIMHOUNG-LIM/assets/141208186/dc66f009-fbfa-496d-9bf2-3c286fe1bf93)
-
 ## 📫 Contact
 
 - 📧 Email: kimhounglim.k@gmail.com
