@@ -17,9 +17,12 @@
 ## 🤖 Machine Learning
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Beginner-brightgreen?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Beginner-brightgreen?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-Beginner-brightgreen?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-Beginner-brightgreen?style=flat-square&logo=opencv&logoColor=white)
 
-## 🚀 Web Deployment
+## 🚀 Web and App Deployment
 
 ![Flask](https://img.shields.io/badge/Flask-Beginner-brightgreen?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-Intermediate-blue?style=flat-square&logo=streamlit&logoColor=white) [![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue?style=flat-square&logo=flutter&logoColor=white)](https://your-flutter-profile-link)
+
+## 🔥 Firebase Services
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-blue?style=flat-square&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-Intermediate-blue?style=flat-square&logo=firebase&logoColor=white) ![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-Intermediate-blue?style=flat-square&logo=firebase&logoColor=white) ![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-Intermediate-blue?style=flat-square&logo=firebase&logoColor=white) 
 
 ## 📈 GitHub Stats
 
